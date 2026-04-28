@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Services from './components/Services'
 import Barbers from './components/Barbers'
 import Gallery from './components/Gallery'
+import Pricing from './components/Pricing'
 import Testimonials from './components/Testimonials'
 import Booking from './components/Booking'
 import Footer from './components/Footer'
@@ -16,6 +17,7 @@ export default function App() {
         <Services />
         <Barbers />
         <Gallery />
+        <Pricing />
         <Testimonials />
         <Booking />
       </main>
